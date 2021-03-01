@@ -1,0 +1,30 @@
+body {
+	background-image: linear-gradient(45deg, #5313fe, #1789ff);
+	min-height: 100vh;
+	padding: 4rem 0;
+	color: white;
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+/* titoli */
+
+h1,
+h2 {
+	margin-bottom: 1.5rem;
+	font-weight: 400;
+	text-align: center;
+}
+
+h2 {
+	margin-top: 1.5rem;
+}
+
+/* BOX */
+
+.box {
+	background-color: rgba(255, 255, 255, 0.5);
+	border: 1px solid rgb(226, 71, 71);
+	padding: 10px;
+	text-align: center;
+	margin: 0px 0px;
+}
